@@ -1,8 +1,8 @@
 # TelecomX_challenge1
-TelecomX_challenge1
+
 # 📊 TelecomX Churn Analysis
 
-Este proyecto analiza los datos de clientes de una empresa de telecomunicaciones llamada TelecomX para entender el fenómeno de **evasión (Churn)**.
+Este proyecto analiza los datos de clientes de la empresa de telecomunicaciones TelecomX para entender el fenómeno de la evasión o abandono **(Churn)** del servicio.
 
 ## 🔍 Objetivo
 Descubrir qué factores influyen en la cancelación del servicio y proponer acciones para reducir la pérdida de clientes.
@@ -19,11 +19,11 @@ Descubrir qué factores influyen en la cancelación del servicio y proponer acci
 - Google Colab
 
 ## ✅ Principales hallazgos
-- Mayor churn en clientes con contratos mensuales
-- Clientes con menor `tenure` tienden a cancelar más
-- Algunos métodos de pago presentan más evasión
+- Mayor abandono (churn) en clientes con contratos mensuales
+- Existe correlación en que los clientes con menor permanencia (tenure) son los que tienden a abandonar el servicio
+- Algunos métodos de pago presentan más evasión, en especial el cheque electrónico (electronic check)
 
 ## 🚀 Recomendaciones
 - Fomentar contratos a largo plazo
+- Optimización de la experiencia de pago
 - Mejorar experiencia de clientes nuevos
-- Revisar planes con cargos altos
