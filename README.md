@@ -24,7 +24,10 @@ Descubrir qué factores influyen en la cancelación del servicio y proponer acci
 - Algunos métodos de pago presentan más evasión, en especial el cheque electrónico (electronic check)
 
 ### 📊 Distribución de métricas 
-
+![Distribucion evasion clientes](img/Distribucion evasion clientes.png)
+![Distribucion evasion metodo_pago](img/Distribucion evasion metodo_pago.png)
+![Recuento evasion tipo_contrato](img/Recuento evasion tipo_contrato.png)
+![Distribucion permanencia cargos_totales_cargos_mensuales_segun_churn](img/Distribucion permanencia cargos_totales_cargos_mensuales_segun_churn.png)
 
 ## 🚀 Recomendaciones
 
